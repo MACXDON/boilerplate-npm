@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../PROJECTS/CC-PROJECT"
+		},
+		{
+			"path": "../../portfolio-projects/uniswap-copy"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "uniswap-copy"
+	}
+}
